@@ -1,5 +1,5 @@
 # ADAM-0
-Liste de commandes en Pascal pour le Coleco
+Liste de commandes en Pascal pour le micro-ordinateur Adam de Coleco 
 
 Voici un aperçu de la commande ADAM :
 
